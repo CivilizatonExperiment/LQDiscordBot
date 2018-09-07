@@ -58,7 +58,7 @@ public class SendToDiscord implements Runnable
                 plugin.getLogger().severe(ex.getStackTrace().toString());
             }
 
-            plugin.getLogger().info("Message [" + conn.getResponseMessage() + "] code [" + conn.getResponseCode() + "]");
+            //plugin.getLogger().info("Message [" + conn.getResponseMessage() + "] code [" + conn.getResponseCode() + "]");
 
             conn.disconnect();
         }
