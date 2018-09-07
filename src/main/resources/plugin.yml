@@ -1,0 +1,5 @@
+name: LQDiscordBot
+main: io.civex.LQDiscordBot.LQDiscordBot
+version: 1.0
+author: ryan00793
+description: Discord Bot.
