@@ -1,5 +1,5 @@
-discord-info: thisisdiscordinfo #idk yet
-joined-queue-message: false
-logged-in-message: false
-on-the-clock-message: false
-missed-queue-message: false
+discord-info: https://discordapp.com/api/webhooks/ #Replace this with the full webhook url from discord.
+joined-queue-message: false #Sends a message when people join the queue.
+logged-in-message: false    #Sends a message when someone has successfully logged in.
+on-the-clock-message: false #Sends a message when someone is put on the clock.
+missed-queue-message: false #Sends a message when someone missed their login window.
